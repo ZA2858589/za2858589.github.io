@@ -239,6 +239,9 @@ Keep it simple, consistent, and clear.
 | import Scanner | Gives access to Scanner class, required at top | import javautil.Scanner; |  |  |
 | print line statement | prints the content in the paranthesis | System.out.print(" "); |  |  |
 |     |  |  |  |  |
+| Overloaded method/function or constructor | Uses the same name, but has different parameters | Pizza(), Pizza(String toppings) 2 constructors, first is a deafult cheese pizza 2nd has 1 topping | | |
+| dot notation | Methods are called on objects using a dot after the object name = | object.method(value); | | |
+| Concatenate | To combine STrings with other Strings and/or variables | String greeting = "Hello" + "my name is " + name + "."; | | |
 
 ## Flutter Definitions
 

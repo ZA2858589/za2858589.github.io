@@ -247,6 +247,9 @@ Keep it simple, consistent, and clear.
 ### String Notes
   Strings have indices (plural for index,) which start at 0. "Hello" has indices 0(H), 1(e), 2(l). 3(l), 4(o).
 
+### String Methods Table
+<img width="1230" height="415" alt="Screenshot 2025-11-14 085914" src="https://github.com/user-attachments/assets/16647662-c6f5-46ac-9b80-ca2077f202b8" />
+
 ## Flutter Definitions
 
 | Term | Definition and Description | Base Structure | Real Life Example | App Example |
